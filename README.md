@@ -23,8 +23,9 @@ My name is Dito RIfki Irawan. I'm currently studying Informatics Engineering at 
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 📊 Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caseinn&show_icons=true&theme=radical" alt="Dito's GitHub Stats" style="width: 45%; min-width: 300px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caseinn&layout=compact&theme=radical" alt="Top Languages" style="width: 45%; min-width: 300px;" />
+<div style="display: flex; gap: 20px;">
+<img src="https://github-readme-stats.vercel.app/api?username=Caseinn&show_icons=true&theme=radical" alt="Dito's GitHub Stats" style="width: 45%; min-width: 300px; margin-right: 1000px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caseinn&layout=compact&theme=radical" alt="Top Languages" style="width: 45%; min-width: 300px;" />
 </div>
+
 
