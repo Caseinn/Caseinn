@@ -8,7 +8,7 @@ My name is Dito RIfki Irawan. I'm currently studying Informatics Engineering at 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ditorifkiirawan/)
 
 ### 🚀 More
-- 🌱 I’m currently learning on Artificial Intelligence.
+- 🌱 I’m currently learning on Machine Learning.
 - 🎮 Fun fact: I love playing Wuthering Waves.
 
 ### 🛠️ Skills
