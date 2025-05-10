@@ -1,31 +1,82 @@
-# Hi there, I'm Dito - aka Caseinn 👋
+<h1 align="center">Hi there, I'm Dito — aka <i>Caseinn</i> 👋</h1>
 
-### 📝 About Me
-My name is Dito RIfki Irawan. I'm currently studying Informatics Engineering at ITERA. I love coding, teaching, and working on exciting tech projects.
+<p align="center">
+  <em>Informatics Engineering Student · Tech Enthusiast · Lifelong Learner</em>
+</p>
 
-### 📫 Reach Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ditorifkii/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ditorifkiirawan/)
+---
 
-### 🚀 More
-- 🌱 I’m currently learning on Machine Learning.
-- 🎮 Fun fact: I love playing Wuthering Waves.
+## 🧑‍💻 About Me
 
-### 🛠️ Skills
-- **Languages:**  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+🎓 I'm **Dito Rifki Irawan**, currently studying **Informatics Engineering** at **ITERA** (Institut Teknologi Sumatera).  
+💡 Passionate about **coding**, **teaching**, and building impactful tech projects.  
+📚 Always excited to dive deeper into **Machine Learning**, **Cloud**, and **Web Development**.  
+🎮 Fun fact: I'm currently addicted to **Wuthering Waves** (I swear it’s not just for the gacha 🤫).
 
-- **Frameworks & Libraries:**  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+---
 
-### 📊 Stats
-<div style="display: flex; gap: 20px;">
-<img src="https://github-readme-stats.vercel.app/api?username=Caseinn&show_icons=true&theme=radical" alt="Dito's GitHub Stats" style="width: 45%; min-width: 300px; margin-right: 1000px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caseinn&layout=compact&theme=radical" alt="Top Languages" style="width: 45%; min-width: 300px;" />
-</div>
+## 📫 Connect With Me
 
+<p align="center">
+  <a href="https://www.instagram.com/ditorifkii/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/@ditorifkii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ditorifkiirawan/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Dito%20Rifki%20Irawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 📦 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Pyramid](https://img.shields.io/badge/Pyramid-0066CC?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Caseinn">
+    <img src="https://github-readme-stats.vercel.app/api?username=Caseinn&show_icons=true&theme=radical&border_radius=10&count_private=true&hide=issues" 
+         alt="Caseinn's GitHub Stats" width="50%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Caseinn">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caseinn&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" 
+         alt="Caseinn's GitHub Streak" width="50%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Caseinn">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caseinn&layout=compact&theme=radical&langs_count=8" 
+         alt="Top Languages" width="50%" />
+  </a>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- 🧮 Machine Learning & Data Science  
+- ☁️ Cloud Fundamentals  
+
+---
+
+<p align="center">
+  <i>✨ Keep learning. Keep building. Keep sharing. ✨</i><br/>
+  <img src="https://komarev.com/ghpvc/?username=Caseinn&label=Profile+Visitors&style=flat-square&color=brightgreen" alt="visitor badge"/>
+</p>
