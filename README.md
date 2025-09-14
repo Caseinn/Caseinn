@@ -10,7 +10,6 @@
 
 🎓 I'm **Dito Rifki Irawan**, currently studying **Informatics Engineering** at **ITERA** (Institut Teknologi Sumatera).  
 💡 Passionate about **coding**, **teaching**, and building impactful tech projects.  
-📚 Always excited to dive deeper into **Machine Learning**, **Cloud**, and **Web Development**.  
 🎮 Fun fact: I'm currently addicted to **Wuthering Waves** (I swear it’s not just for the gacha 🤫).
 
 ---
@@ -48,13 +47,6 @@
 
 <p align="center">
   <a href="https://github.com/Caseinn">
-    <img src="https://github-readme-stats.vercel.app/api?username=Caseinn&show_icons=true&theme=radical&border_radius=10&count_private=true&hide=issues" 
-         alt="Caseinn's GitHub Stats" width="50%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Caseinn">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caseinn&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" 
          alt="Caseinn's GitHub Streak" width="50%" />
   </a>
@@ -71,8 +63,8 @@
 
 ## 🧠 Currently Learning
 
-- 🧮 Machine Learning & Data Science  
-- ☁️ Cloud Fundamentals  
+- 🧮 Deep Learning 
+- ☁️ LLM
 
 ---
 
