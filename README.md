@@ -20,7 +20,7 @@
   <a href="https://www.instagram.com/ditorifkii/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/@ditorifkii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/ditorifkiirawan/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/ditorifki/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Dito%20Rifki%20Irawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
