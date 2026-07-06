@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Caseinn&fontSize=50&fontColor=fff&fontAlignY=35&desc=Dito%20Rifki%20Irawan&descAlignY=55&descSize=20&animation=fadeIn" />
-</p>
+<h1 align="center">Hi there, I'm Dito — aka <i>Caseinn</i></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Dito;aka+Caseinn;Informatics+Engineering+Student;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <em>Informatics Engineering Student · Tech Enthusiast · Lifelong Learner</em>
 </p>
 
 ---
@@ -51,7 +49,7 @@ Fun fact: I'm currently addicted to **Wuthering Waves** (I swear it's not just f
 <p align="center">
   <a href="https://github.com/Caseinn">
     <img src="https://github-stats-extended.vercel.app/api?username=caseinn&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed" 
-         alt="Github Stats" width="33%" />
+         alt="Stats" width="33%" />
   </a>
   <a href="https://github.com/Caseinn">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=caseinn&layout=compact&langs_count=4&theme=github_dark_dimmed" 
@@ -62,7 +60,7 @@ Fun fact: I'm currently addicted to **Wuthering Waves** (I swear it's not just f
 ---
 
 <p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Caseinn/Caseinn/output/github-contribution-grid-snake.gif" />
+  <img alt="Contribution" src="https://raw.githubusercontent.com/Caseinn/Caseinn/output/github-contribution-grid-snake.gif" />
 </p>
 
 ---
