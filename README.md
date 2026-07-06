@@ -49,11 +49,11 @@ Fun fact: I'm currently addicted to **Wuthering Waves** (I swear it's not just f
 <p align="center">
   <a href="https://github.com/Caseinn">
     <img src="https://github-stats-extended.vercel.app/api?username=caseinn&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed" 
-         alt="Stats" width="33%" />
+         alt="Stats" width="46%" />
   </a>
   <a href="https://github.com/Caseinn">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=caseinn&layout=compact&langs_count=4&theme=github_dark_dimmed" 
-         alt="Top Languages" width="25%" />
+         alt="Top Languages" width="35%" />
   </a>
 </p>
 
