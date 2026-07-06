@@ -1,20 +1,22 @@
-<h1 align="center">Hi there, I'm Dito — aka <i>Caseinn</i> 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Caseinn&fontSize=50&fontColor=fff&fontAlignY=35&desc=Dito%20Rifki%20Irawan&descAlignY=55&descSize=20&animation=fadeIn" />
+</p>
 
 <p align="center">
-  <em>Informatics Engineering Student · Tech Enthusiast · Lifelong Learner</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Dito;aka+Caseinn;Informatics+Engineering+Student;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-🎓 I'm **Dito Rifki Irawan**, currently studying **Informatics Engineering** at **ITERA** (Institut Teknologi Sumatera).  
-💡 Passionate about **coding**, **teaching**, and building impactful tech projects.  
-🎮 Fun fact: I'm currently addicted to **Wuthering Waves** (I swear it’s not just for the gacha 🤫).
+I'm **Dito Rifki Irawan**, currently studying **Informatics Engineering** at **ITERA** (Institut Teknologi Sumatera).  
+Passionate about **coding**, **teaching**, and building impactful tech projects.  
+Fun fact: I'm currently addicted to **Wuthering Waves** (I swear it's not just for the gacha).
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.instagram.com/ditorifkii/" target="_blank" rel="noopener noreferrer">
@@ -27,15 +29,15 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 📦 Frameworks & Libraries
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
@@ -44,32 +46,27 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Caseinn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caseinn&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" 
-         alt="Caseinn's GitHub Streak" width="50%" />
+    <img src="https://github-stats-extended.vercel.app/api?username=caseinn&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed" 
+         alt="Github Stats" width="33%" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Caseinn">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caseinn&layout=compact&theme=radical&langs_count=8" 
-         alt="Top Languages" width="50%" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=caseinn&layout=compact&langs_count=4&theme=github_dark_dimmed" 
+         alt="Top Languages" width="25%" />
   </a>
 </p>
 
 ---
 
-## 🧠 Currently Learning
-
-- 🧮 Deep Learning 
-- ☁️ LLM
+<p align="center">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Caseinn/Caseinn/output/github-contribution-grid-snake.gif" />
+</p>
 
 ---
 
 <p align="center">
-  <i>✨ Keep learning. Keep building. Keep sharing. ✨</i><br/>
   <img src="https://komarev.com/ghpvc/?username=Caseinn&label=Profile+Visitors&style=flat-square&color=brightgreen" alt="visitor badge"/>
 </p>
